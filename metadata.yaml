@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25513
     wikipedia: http://en.wikipedia.org/wiki/Olive_Custance
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22736#The-Inn-of-Dreams
 gutenberg_issued: '2007-09-23'
 gutenberg_type: Text
 identifiers:
